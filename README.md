@@ -1,5 +1,5 @@
 <a href="https://projectocula.vercel.app/">
-  <img alt="Project Ocula, an AI chatbot based on Grok by xAI" src="app/favicon.ico">
+  <img alt="Project Ocula, an AI chatbot based on Grok by xAI" src="app/(chat)/opengraph_image">
   <h1 align="center">Ocula</h1>
 </a>
 
